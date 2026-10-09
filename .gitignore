@@ -1,0 +1,8 @@
+node_modules/
+.sites-runtime/
+.wrangler/
+.env
+.env.*
+.dev.vars
+praiser-cloudflare.zip
+*-deploy.tar.gz
